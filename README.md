@@ -21,4 +21,4 @@ The data sets and files in the repository are as follows.
 - bikeshare.py: The python script.
 
 ## License:
-The license is included in `license.txt` under MIT 
+The license is included in `license.txt` under MIT license agreement.
